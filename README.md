@@ -12,5 +12,4 @@ pip install -r requirements.txt
 streamlit run calculator.py
 
 ## Screenshot
-[<img width="1038" height="1515" alt="Neon Rajan Calculator Interface" src="https://github.com/user-attachments/assets/9d0e9304-4660-4968-9f15-6bba5e7c8dad" />
-
+[<img width="250" height="343" alt="Rajan-Calculator-250px" src="https://github.com/user-attachments/assets/4e624cd8-5b3b-44fb-b17f-9018c00613d1" />
