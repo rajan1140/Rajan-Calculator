@@ -12,5 +12,5 @@ pip install -r requirements.txt
 streamlit run calculator.py
 
 ## Screenshot
-[![Image](https://github.com/user-attachments/assets/52ff5744-77dc-45b2-b446-f20bef9eb64b)
-]
+[<img width="1071" height="1469" alt="PNG Image" src="https://github.com/user-attachments/assets/a40030d0-cf85-4009-bf41-fb0c37980ae2" />
+
